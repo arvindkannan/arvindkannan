@@ -32,10 +32,16 @@
 
 ## What I’m working on (now)
 
-- 🤖 **Agentic AI automation**: agents that plan, execute, and validate workflows across systems
-- 🧩 **Internal automation platform**: orchestration, connectors, governance (RBAC/audit), reliability
-- 🖥️ **UI for builders & operators**: run history, monitoring, approvals, and debugging UX
-- ☁️ **Delivery & ops**: CI/CD, containers, Kubernetes, observability, performance tuning
+### 🤖 Agentic Automation Platform
+
+Automate repetitive manual work by 📥 collecting data from multiple systems into a 🗄️ single data store, then using 🧠 agentic AI to analyze it and ✅ recommend/execute next actions—with 👀 human-in-the-loop oversight.
+
+#### ✨ Key features
+- 🤖 **Agentic workflows:** plan → execute → validate across tools  
+- 🧩 **Automation platform:** orchestration, connectors, RBAC, audit logs  
+- 🗄️ **Unified data store:** ingest + normalize data from many sources  
+- 🖥️ **Operator UI:** run history, monitoring, approvals, debugging  
+- 🔍 **Observability & reliability:** logs/metrics, retries, alerts  
 
 ---
 
@@ -67,6 +73,6 @@
 ---
 
 
-## Contact
+## Connect
 
-If you’re building an automation platform or agent-based product, I’m happy to connect.
+Always happy to connect—learning new things, exploring new problems, and building practical solutions in automation, agentic AI, and digital transformation.
