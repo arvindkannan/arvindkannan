@@ -1,46 +1,72 @@
-### < Hello World /> 👋
+<!-- Profile README for arvindkannan/arvindkannan -->
 
-- 📫 Reach me @ 
-[![Twitter](https://img.shields.io/badge/-arvindkannan-blue?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arvind_kannan_)](https://twitter.com/arvind_kannan_)
-[![Linkedin](https://img.shields.io/badge/-arvindkannan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arvindkannan1)](https://www.linkedin.com/in/arvindkannan1)
-[![GitHub followers](https://img.shields.io/github/followers/arvindkannan?label=Follow&style=social)](https://github.com/arvindkannan/?tab=follow)
-[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16??style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/story/arvind_k)
+<h1 align="center">Hi, I’m Arvind Kannan 👋</h1>
 
-- 🔭 I’m currently working on @RamcoSystems
-- 🌱 You can find my portfolio at https://arvindkannan.github.io
+<p align="center">
+  <b>Lead Engineer</b> building an <b>automation platform + UI</b> with <b>Agentic AI</b>.<br/>
+  I lead teams to ship secure, scalable products with strong DX, observability, and reliability.
+</p>
 
-## 🚀 Skills
+<p align="center">
+  <a href="https://arvindkannan.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arvindkannan1"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/arvind_kannan_"><img alt="X" src="https://img.shields.io/badge/X(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/story/arvind_k"><img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://github.com/arvindkannan?tab=followers"><img alt="Follow" src="https://img.shields.io/badge/Follow-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/GO-007BCC?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
-![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+---
 
-<!--
-**arvindkannan/arvindkannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quick picks
 
-Here are some ideas to get you started:
+<p>
+  <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic_AI-5B21B6?style=flat-square"/>
+  <img alt="Platform Engineering" src="https://img.shields.io/badge/Platform_Engineering-0EA5E9?style=flat-square"/>
+  <img alt="Automation" src="https://img.shields.io/badge/Automation-10B981?style=flat-square"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-111827?style=flat-square"/>
+  <img alt="Cloud Native" src="https://img.shields.io/badge/Cloud_Native-2563EB?style=flat-square"/>
+  <img alt="Developer Experience" src="https://img.shields.io/badge/DX-334155?style=flat-square"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I’m working on (now)
+
+- 🤖 **Agentic AI automation**: agents that plan, execute, and validate workflows across systems
+- 🧩 **Internal automation platform**: orchestration, connectors, governance (RBAC/audit), reliability
+- 🖥️ **UI for builders & operators**: run history, monitoring, approvals, and debugging UX
+- ☁️ **Delivery & ops**: CI/CD, containers, Kubernetes, observability, performance tuning
+
+---
+
+## Tech stack
+
+### Core
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-007BCC?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+
+### Platform / Cloud
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+### Data
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0000ff?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+
+## Contact
+
+If you’re building an automation platform or agent-based product, I’m happy to connect.
